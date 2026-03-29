@@ -12,7 +12,7 @@ An interactive web application to visualize **pathfinding algorithms (BFS & DFS)
 
 ## 📸 Preview
 
-![Demo](assets/Maze Solver.png)
+![Demo](assets/MazeSolver.png)
 
 ---
 
@@ -82,9 +82,10 @@ maze-solver-visualiser/
 
 ---
 
-## 👨‍💻 Author
-
-Sainath Reddy
+## 👨‍💻 Project Contribution
+G.Siva Sainath Reddy
+N Raghu
+Harsha
 GitHub: https://github.com/sivasainathreddy4-a11y
 
 ---
