@@ -83,9 +83,9 @@ maze-solver-visualiser/
 ---
 
 ## 👨‍💻 Project Contribution
--G.Siva Sainath Reddy
--N Raghu
--Harsha
+-G.Siva Sainath Reddy  
+-N Raghu  
+-Harsha  
 GitHub: https://github.com/sivasainathreddy4-a11y
 
 ---
