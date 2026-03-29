@@ -12,7 +12,7 @@ An interactive web application to visualize **pathfinding algorithms (BFS & DFS)
 
 ## 📸 Preview
 
-![Demo](assets/Maze.png)
+![Demo](assets/Maze%20Solver.png)
 
 ---
 
