@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maze Solver & Algorithm Visualizer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="header">
+        <h1>Maze Solver & Algorithm Visualizer</h1>
+        <p class="subtitle">
+          Click cells to toggle walls. Start is green (top-left) and End is red (bottom-right).
+        </p>
+      </header>
+
+      <section class="controls">
+        <button id="generateBtn" type="button">Generate Grid</button>
+        <button id="bfsBtn" type="button">Solve using BFS</button>
+        <button id="dfsBtn" type="button">Solve using DFS</button>
+        <button id="resetBtn" type="button" class="secondary">Reset Grid</button>
+        <label style="margin-left:10px;">Speed:</label>
+        <input type="range" id="speed" min="10" max="200" value="50">
+        <div id="status" class="status" aria-live="polite">Ready.</div>
+        <p id="time"></p>
+      </section>
+
+      <main class="main">
+        <div id="grid" class="grid" aria-label="Maze grid"></div>
+      </main>
+
+      <footer class="footer">
+        <div class="legend">
+          <span class="chip start">Start</span>
+          <span class="chip end">End</span>
+          <span class="chip wall">Wall</span>
+          <span class="chip visited">Visited</span>
+          <span class="chip path">Path</span>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
