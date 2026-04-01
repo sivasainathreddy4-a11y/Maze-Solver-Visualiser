@@ -55,13 +55,13 @@ An interactive web application to visualize **pathfinding algorithms (BFS & DFS)
 
 ## 📂 Project Structure
 
-maze-solver-visualiser/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
+maze-solver-visualiser/ 
+│── index.html 
+│── style.css 
+│── script.js 
+│── assets/ 
 
----
+--- 
 
 ## 🎮 How to Use
 
