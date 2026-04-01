@@ -61,7 +61,7 @@ maze-solver-visualiser/
 │── script.js 
 │── assets/ 
 
---- 
+---
 
 ## 🎮 How to Use
 
